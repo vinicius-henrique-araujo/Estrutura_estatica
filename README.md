@@ -7,7 +7,7 @@ Uma alocação estatica é aquela em que os valores são fixo, ou seja não ha u
 
 A seguir vamos ver um resumo sobre ponteiro, vetor e matriz, pois  ira melhorar a compreenção sobre alocação estatica.
 
-###PONTEIRO
+### PONTEIRO
 
 
 
