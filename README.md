@@ -7,6 +7,14 @@ Uma alocação estatica é aquela em que os valores são fixo, ou seja não ha u
 
 A seguir vamos ver um resumo sobre ponteiro, vetor e matriz, pois  ira melhorar a compreenção sobre alocação estatica.
 
+
+### MATRIZ 
+``` 
+int v[99];
+for (i = 0; i < 99; ++i) v[i] = 98 - i;
+for (i = 0; i < 99; ++i) v[i] = v[v[i]];
+```
+
 ### PONTEIRO
 É uma variavel que aponta para um endereço de outra variavel conforme o tipo correspondente, ficou claro?
 para melhor compreenção dos leigos, uma memoria de computador pode  ser ocupda em qualuer lugar 
