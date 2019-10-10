@@ -8,7 +8,8 @@ Uma alocação estatica é aquela em que os valores são fixo, ou seja não ha u
 A seguir vamos ver um resumo sobre ponteiro, vetor e matriz, pois  ira melhorar a compreenção sobre alocação estatica.
 
 ### PONTEIRO
-
+É uma variavel que aponta para um endereço de outra variavel conforme o tipo correspondente, ficou claro?
+para melhor compreenção dos leigos, uma memoria de computador pode  ser ocupda em qualuer lugar 
 
 
 
