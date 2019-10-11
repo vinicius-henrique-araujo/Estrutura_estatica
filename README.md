@@ -16,12 +16,14 @@ int v[10];
 ```
 |posição|0|1|2|3|4|5|6|7|8|9|
 |-------|-|-|-|-|-|-|-|-|-|-|
-|elemnto|a|b|c|d|f|g|h|i|g|l|
+|elemento|a|b|c|d|f|g|h|i|g|l|
+
+Observe os dois lups a seguir.
 ``` 
 for (i = 0; i < 10; ++i) v[i] = 9 - i;
 for (i = 0; i < 10; ++i) v[i] = v[v[i]];
 ```
-
+vejamos que a variavel i recebe 0 do tipo int
 ### PONTEIRO
 É uma variavel que aponta para um endereço de outra variavel conforme o tipo correspondente, ficou claro?
 para melhor compreenção dos leigos, uma memoria de computador pode  ser ocupda em qualuer lugar 
