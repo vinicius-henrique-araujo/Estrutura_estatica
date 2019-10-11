@@ -11,10 +11,12 @@ A seguir vamos ver um resumo sobre vetor e matriz,que por uma forma "natural" el
 ### VETOR
 O vetor é uma array(matriz) unilateral que armazena elementos homogenicos e eterogenios em uma unica lina 
 
-``` 
+```
 int v[10];
+```
 |posição|0,1,2,3,4,5,6,7,8,9|
 |elemnto|a,b,c,d,f,g,h,i,g,l|
+``` 
 for (i = 0; i < 10; ++i) v[i] = 9 - i;
 for (i = 0; i < 10; ++i) v[i] = v[v[i]];
 ```
